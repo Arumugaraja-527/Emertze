@@ -1,4 +1,3 @@
-```md
 # 📒 Address Book Management System (C)
 
 A command-line Address Book application written in C that allows users to add, search, edit, delete, and persist contact information using file-based storage.
