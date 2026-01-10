@@ -6,6 +6,26 @@ This project demonstrates real-world C programming practices including structure
 
 ---
 
+## 📖 Table of Contents
+
+- [Overview](#-overview)
+- [Key Highlights](#-key-highlights)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Build Instructions](#-build-instructions)
+- [Running the Application](#-running-the-application)
+- [Application Menu](#-application-menu)
+- [Internal Design](#-internal-design)
+- [File Storage Strategy](#-file-storage-strategy)
+- [Error Handling & Validation](#-error-handling--validation)
+- [Learning Outcomes](#-learning-outcomes)
+- [Future Enhancements](#-future-enhancements)
+- [Author](#-author)
+- [Support](#-support)
+
+
+---
 ## 📌 Overview
 
 The Address Book Management System provides a simple and efficient way to manage contact details through a terminal-based interface.
@@ -50,9 +70,9 @@ Core Concepts Used:
 - Input Validation
 
 ---
-
 ## 📂 Project Structure
 
+```text
 AddressBook/
 │
 ├── main.c        # Application entry point & menu logic
@@ -62,6 +82,7 @@ AddressBook/
 ├── file.h        # File operation prototypes
 ├── contacts.csv  # Persistent contact storage
 └── README.md     # Project documentation
+```
 
 ---
 
